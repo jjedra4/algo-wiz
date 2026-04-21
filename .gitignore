@@ -1,2 +1,4 @@
 # Ignore any directory named data (at any level)
 data/
+
+.DS_Store
