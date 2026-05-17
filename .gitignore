@@ -2,3 +2,10 @@
 data/
 
 .DS_Store
+
+# Ignore any directory named .vscode (at any level)
+.vscode/
+
+#ignore any files with extensions: .ppm, .pgm, .pbm, .pnm
+*.ppm
+*.png
