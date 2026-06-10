@@ -9,3 +9,4 @@ data/
 #ignore any files with extensions: .ppm, .pgm, .pbm, .pnm
 *.ppm
 *.png
+*.jpg
